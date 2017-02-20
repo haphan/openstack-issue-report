@@ -13,7 +13,7 @@ Alternatively you can directly fork this project and make changes.
 ### 2. Populate credentials and run debug
 
 Edit `debug.php` and modify `$params` with your OpenStack credentials. 
-The template code enable debug information to print directly to your console.
+This template code enables debug information to print directly to your console.
  
 Write code that you think having an issue at the end.
 
