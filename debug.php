@@ -28,4 +28,4 @@ $openstack = new OpenStack\OpenStack($params);
 
 
 //Put your code below this line
-dump($openstack->computeV2()->listServers());
+dump(iterator_to_array($openstack->computeV2()->listServers()));
