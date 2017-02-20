@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-opencloud/openstack": "^2.0",
+        "monolog/monolog": "^1.22",
+        "symfony/var-dumper": "^3.2"
+    }
+}
